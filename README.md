@@ -2,6 +2,6 @@ This portfolio represents the culmination of the knowledge I learned at Southern
 
 Below is a video of my code review of this project and how I will be improving upon it. 
 
-https://youtu.be/-gkOnbEaWbU
+[CODE REVIEW](https://youtu.be/-gkOnbEaWbU)
 
 
