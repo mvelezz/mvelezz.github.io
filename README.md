@@ -17,7 +17,7 @@ I believe that I have effectively met this course outcome. I have vastly improve
 I believe this artifact also meets this course outcome. By creating code that is readable and maintainable, I have opened the door for other developers to collaborate with me. I also believe writing clean code that is orthogonal will really help decision makers in the field of computer science as when one part of the program needs to be changed, it can be done easily and effectively. 
 I learned a lot while developing this application. The differences in Python and Java are immense and it was far more challenging than I originally expected. I ran into issues with objects not working how I wanted them to in the menus, but I was able to overcome my struggles and get my program running exactly how it should work. 
 
-I have included images of my program running in both Python and Java below. 
+I have included images of my program running in both Python and Java below. The link to the branch of this repository is [HERE](https://github.com/mvelezz/CS499/tree/branch1)
 
 **JAVA**
 
