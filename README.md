@@ -1,4 +1,11 @@
-This portfolio represents the culmination of the knowledge I learned at Southern New Hampshire University. Throughout this portfolio, I will be modifying a personal project to meet standards and desired outcomes. 
+This portfolio represents the culmination of the knowledge I obtained at Southern New Hampshire University. Throughout this portfolio, I will be modifying a personal project to meet standards and desired outcomes. The course outcomes for this portfolio are as follows:
+
+1.	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  
+2.	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.  
+3.	Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.  
+4.	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
+5.	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.  
+
 
 Below is a video of my code review of this project and how I will be improving upon it. 
 
@@ -27,6 +34,16 @@ I have included images of my program running in both Python and Java below. The 
 
 ![Screenshot 2024-11-28 110455](https://github.com/user-attachments/assets/73fbf1df-11ef-40b4-8797-14d793226cc3)
 ![Screenshot 2024-11-28 110521](https://github.com/user-attachments/assets/94f0dc54-b82b-4192-a506-6e3d2c9cd39b)
+
+**ENHANCEMENT TWO**
+This enhancement deals with algorithms and data structures. I continued to work on the same project as enhancement one. I wanted to add a feature that allows the user to search for a particular member based on the member's member number. I was able to do this by implementing a binary search algorithm. I first added member numbers to a new list, sorted that list, and then implemented my own binary search algorithm to find the member number that was searched for. I could then access the member list and return the member's information that was associated with the inputted member number. I believe this enhancement covers the two course outcomes below.
+
+
+
+I have included an image of the program utilizing this feature below. A link to the branch of this repository can be found [HERE] (https://github.com/mvelezz/CS499/tree/branch_2) 
+
+![image](https://github.com/user-attachments/assets/ab6e0913-3b79-41f6-a8b9-196a5c29e5a2)
+
 
 
 
