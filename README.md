@@ -36,11 +36,21 @@ I have included images of my program running in both Python and Java below. The 
 ![Screenshot 2024-11-28 110521](https://github.com/user-attachments/assets/94f0dc54-b82b-4192-a506-6e3d2c9cd39b)
 
 **ENHANCEMENT TWO**
-This enhancement deals with algorithms and data structures. I continued to work on the same project as enhancement one. I wanted to add a feature that allows the user to search for a particular member based on the member's member number. I was able to do this by implementing a binary search algorithm. I first added member numbers to a new list, sorted that list, and then implemented my own binary search algorithm to find the member number that was searched for. I could then access the member list and return the member's information that was associated with the inputted member number. I believe this enhancement covers the two course outcomes below.
+The artifact is a continuation of my previous artifact. In artifact one, I was able to convert my tee time reservation system from Java into Python. The program maintained its ability to book tee times, add members, and view all members in the database. I selected this item as I wanted this ePortfolio to be one big overhaul of a project. I knew that a huge improvement to my artifact would be allowing users to search for specific members with their member number. This would ensure as the database got larger, the user did not have to print and search through all existing members. I was able to create an algorithm to store member numbers in an array, sort the array, and then perform binary search on that array based on the member number the user was searching for. This value was then used to locate the member with that member number and print out their information. This took more resources than I originally thought. Adding an extra data structure and adding each member to it made space complexity O(n) where n is the number of member numbers added to the system. The time complexity would be O(n logn) as we have to sort the list to use binary search.
 
+I believe I met both course outcomes below.
 
+**Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.**
 
-I have included an image of the program utilizing this feature below. A link to the branch of this repository can be found [HERE] (https://github.com/mvelezz/CS499/tree/branch_2) 
+Creating an algorithm to find a member by their member number meets this course outcome. I evaluated the algorithm for both time and space complexity and concluded that this was a solid solution for my problem.
+
+**Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.**
+
+This artifact has shown my ability to assess a situation, implement an algorithmic solution, and deliver value through implementing a feature to improve the software as a whole.
+
+I learned quite a lot from implementing this artifact. I had never had to use binary search on a list that contained objects. I am sure there is a way to directly implement a search algorithm that will take a property of an object in as a parameter. I did like the solution that I came up with by adding all member numbers to a separate list and then performing the search on that list. The only assumption is that both the original list with members and the member number list need to be in numerical order for this implementation to work. If I choose to port this to a desktop application, I will have to figure out a better solution. 
+
+I have included an image of the program utilizing this feature below. A link to the branch of this repository can be found [HERE](https://github.com/mvelezz/CS499/tree/branch_2) 
 
 ![image](https://github.com/user-attachments/assets/ab6e0913-3b79-41f6-a8b9-196a5c29e5a2)
 
