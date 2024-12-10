@@ -1,4 +1,6 @@
-This portfolio represents the culmination of the knowledge I obtained at Southern New Hampshire University. Throughout this portfolio, I will be modifying a personal project to meet standards and desired outcomes. The course outcomes for this portfolio are as follows:
+Throughout my time at Southern New Hampshire University, I have been able to hone my skills as a developer in many different ways. I have utilized multiple programming languages like Java, Python, and C++. I have utilized my collaboration skills when solving tough problems with both classmates and professors. I gained experience in communicating with stakeholders in a non-technical way and generated reports to show the impact of software and data. I have tackled data structures and algorithms in class and spent many hours on Leetcode, honing my skills. I was able to learn about both SQL and NoSQL databases and how to connect them with my own software solutions. I uncovered the mysteries behind software security and how I can develop code to keep sensitive information safe. I was also able to utilize large libraries such as OpenGL to create 3D environments. I have also learned about web development and how to utilize the MEAN stack to create and update web applications. The culmination of this knowledge has prepared me to start my career as a software developer.
+
+This portfolio represents some of the most important knowledge I obtained at Southern New Hampshire University. Throughout this portfolio, I will be modifying a personal project to meet standards and desired outcomes. All enhancements are based on a tee-time reservation system that runs in the terminal. In my first enhancement, I will be migrating a personal project from Java to Python. In my second enhancement, I will take the newly written Python code, and add an algorithm that allows the user to search for members in the database. In the final enchantment, I will be integrating a MongoDB database so the program will be far more usable and functional. The course outcomes for this portfolio are as follows:
 
 1.	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  
 2.	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.  
@@ -67,7 +69,6 @@ I believe migrating the entire database to a MongoDB database shows a significan
 
 I learned a lot of valuable skills while doing this enhancement. Figuring out where to host the database and how to host the database was a daunting task. However, I was able to overcome many challenges along the way. I could not connect to the database at first, but I learned the username and password variables needed to be put through a specific function to connect to the database. I also had to completely rework how tee times were booked and how users could add new members to the database. This was far more challenging than I anticipated, but I am incredibly satisfied with the result. 
 
+I have included an image of the program utilizing the database and a link to the branch of this repository can be found [HERE](https://github.com/mvelezz/CS499/tree/main/FINAL)
 
-
-
-
+![Screenshot 2024-12-10 080712](https://github.com/user-attachments/assets/8d511db6-505b-42e8-ab5c-0f47041300d0)
